@@ -65,3 +65,7 @@ Based on the findings, here are some potential recommendations:
     - Consider expanding coffee-related services (e.g., coffee tastings, brewing classes).
 
 **NOTE:** These recommendations aim to boost sales, optimize product offerings, and leverage successful strategies.
+
+---
+
+_SQL LINK_
