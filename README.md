@@ -41,7 +41,8 @@ This analysis uses dummy data, findings should be validated with actual sales da
 - Hell's Kitchen branch generates the most revenue.
 - 10 am is the peak hour for sales.
 
-Recommendations:
+**Recommendations:**
+
 Based on the findings, here are some potential recommendations:
 
 1. Optimize Product Offerings:
@@ -63,4 +64,4 @@ Based on the findings, here are some potential recommendations:
     - Continue to prioritize coffee products, exploring new flavors and brewing methods.
     - Consider expanding coffee-related services (e.g., coffee tastings, brewing classes).
 
-NOTE: These recommendations aim to boost sales, optimize product offerings, and leverage successful strategies.
+**NOTE:** These recommendations aim to boost sales, optimize product offerings, and leverage successful strategies.
