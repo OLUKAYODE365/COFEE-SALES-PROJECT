@@ -1,6 +1,5 @@
 ### COFEE SALES PROJECT
-Project Overview: 
-Coffee Sales Data Analysis
+**Project Overview: **
 
 Objective:
 The objective of this project is to analyze coffee sales data to gain insights on the most profitable product categories, identify underperforming products, and provide recommendations to improve sales productivity across all products.
