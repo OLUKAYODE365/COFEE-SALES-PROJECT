@@ -17,13 +17,15 @@ The analysis focuses on coffee sales data, examining key areas such as busiest d
 - Analysis: Using Pivot Table, and Pivot Chats to extract meaningful information. 
 - Visualization Dashboard: was employed for a simple, summary and insightful representation analysis. 
 
-DATA SOURCE 
-This dataset was sourced and  downloaded online as XLT & PDF file, for project and academy purposes.
+**DATA SOURCE **
 
-LIMITATION
+This dataset was sourced and downloaded online as XLT & PDF file, for project and academy purposes.
+
+**LIMITATION**
+
 This analysis uses dummy data, findings should be validated with actual sales data
 
-TOOLS
+**TOOLS**
 • Microsoft Excel: Utilized for preliminary data correction, and initial review of dataset
 
 • Microsoft Excel: Employed for Data Cleaning, in-depth analysis to extract meaningful insights and visualization to provide detailed and interactive reports. 
