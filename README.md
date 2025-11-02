@@ -3,12 +3,13 @@
 **Project Overview:**
 
 **Objective:**
+
 The objective of this project is to analyze coffee sales data to gain insights on the most profitable product categories, identify underperforming products, and provide recommendations to improve sales productivity across all products.
 
-Scope:
+**Scope:**
 The analysis focuses on coffee sales data, examining key areas such as busiest day of the week, top-selling products, revenue drivers, hourly sales distribution, sales by location, monthly sales trends, and daily coffee sales.
 
-Methodology:
+**Methodology:**
 Data Collection: Gathering logs and company sales records 
 Data Cleansing/Sorting: To remove duplicate values and unwanted variables
 Analysis: Using Pivot Table, and Pivot Chats to extract meaningful information. 
