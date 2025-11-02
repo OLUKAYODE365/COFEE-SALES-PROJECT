@@ -1,4 +1,5 @@
-###COFEE SALES PROJECT
+### COFEE SALES PROJECT
+
 **Project Overview:**
 
 **Objective:**
