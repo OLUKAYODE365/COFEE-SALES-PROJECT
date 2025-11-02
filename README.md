@@ -12,10 +12,10 @@ The analysis focuses on coffee sales data, examining key areas such as busiest d
 
 **Methodology:**
 
--Data Collection: Gathering logs and company sales records 
--Data Cleansing/Sorting: To remove duplicate values and unwanted variables
+- Data Collection: Gathering logs and company sales records 
+- Data Cleansing/Sorting: To remove duplicate values and unwanted variables
 - Analysis: Using Pivot Table, and Pivot Chats to extract meaningful information. 
-Visualization Dashboard: was employed for a simple, summary and insightful representation analysis. 
+- Visualization Dashboard: was employed for a simple, summary and insightful representation analysis. 
 
 DATA SOURCE 
 This dataset was sourced and  downloaded online as XLT & PDF file, for project and academy purposes.
