@@ -71,3 +71,6 @@ Based on the findings, here are some potential recommendations:
 _EXCEL DASHBORD LINK_
 
 ``` https://1drv.ms/x/c/4a8b1c8d2d244b22/EUJdttAjreFMmyex6aCCHPEBvpAAR_PeySatQtn4i2P8Hw?e=tzpn7d ```
+
+![COFEE](https://github.com/user-attachments/assets/8f8fb86c-5ae0-471a-b680-c9fefeb7e5e4)
+
