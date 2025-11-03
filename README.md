@@ -77,3 +77,5 @@ _EXCEL DASHBORD LINK_
 ![COFEE](https://github.com/user-attachments/assets/27d1a26d-fd2f-475d-9431-3cbe63b15ff2)
 
 https://github.com/OLUKAYODE365/COFEE-SALES-PROJECT/blob/main/COFEE%20SALES%20DASHBOARD.jpg?raw=true
+
+![image alt](https://github.com/OLUKAYODE365/COFEE-SALES-PROJECT/blob/main/COFEE%20SALES%20DASHBOARD.jpg?raw=true)
