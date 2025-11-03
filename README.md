@@ -68,14 +68,9 @@ Based on the findings, here are some potential recommendations:
 
 ---
 
-![COFEE SALES DASHBOARD](https://github.com/user-attachments/assets/b8be5604-666e-4178-836a-329c35e02d86)
-
 _EXCEL DASHBORD LINK_
 
 ``` https://1drv.ms/x/c/4a8b1c8d2d244b22/EUJdttAjreFMmyex6aCCHPEBvpAAR_PeySatQtn4i2P8Hw?e=tzpn7d ```
 
 ![COFEE](https://github.com/user-attachments/assets/27d1a26d-fd2f-475d-9431-3cbe63b15ff2)
 
-https://github.com/OLUKAYODE365/COFEE-SALES-PROJECT/blob/main/COFEE%20SALES%20DASHBOARD.jpg?raw=true
-
-![image alt](https://github.com/OLUKAYODE365/COFEE-SALES-PROJECT/blob/main/COFEE%20SALES%20DASHBOARD.jpg?raw=true)
