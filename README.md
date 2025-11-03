@@ -76,7 +76,4 @@ _EXCEL DASHBORD LINK_
 
 ![COFEE](https://github.com/user-attachments/assets/27d1a26d-fd2f-475d-9431-3cbe63b15ff2)
 
-![COFEE SALES DASHBOARD](https://github.com/user-attachments/assets/1e83d0f0-fbc7-43dd-851d-9b03286dd254)
-
-![IMG-20241231-WA0017](https://github.com/user-attachments/assets/0fdb4940-ecb7-48f1-804a-9df6f0eac19f)
-
+![
